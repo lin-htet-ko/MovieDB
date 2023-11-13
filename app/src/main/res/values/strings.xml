@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="lbl_popular_movies">Popular Movies</string>
+    <string name="lbl_upcoming_movies">Upcoming Movies</string>
+</resources>
